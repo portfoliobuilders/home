@@ -41,6 +41,13 @@ class HomeScreen extends StatelessWidget {
                               fontSize: 14,
                             ),
                           ),
+                          //    Text(
+                          //   'Floor Manager',
+                          //   style: TextStyle(
+                          //     color: Colors.grey,
+                          //     fontSize: 14,
+                          //   ),
+                          // ),
                         ],
                       ),
                     ],
